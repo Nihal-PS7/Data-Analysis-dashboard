@@ -5,3 +5,6 @@
 3. Develop a comprehensive sales dashboard using Power BI.
 4. Provide actionable insights to help stakeholders make informed decisions.
 5. Identify opportunities for improving sales strategies and business growth.
+
+## Dataset used
+- <a href="https://github.com/Nihal-PS7/Data-Analysis-dashboard/blob/main/pizza_sales.csv"<Dataset</a>
