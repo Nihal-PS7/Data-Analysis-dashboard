@@ -32,7 +32,7 @@
 
 ### Dashboard Interaction: <a href="https://github.com/Nihal-PS7/Data-Analysis-dashboard/blob/main/Pizza%20sales%201.png">View Dashboard</a>
 
-### Process of the Project:
+## Process of the Project:
 
 1. **Data Collection:**
    - Gathered pizza sales data from various sources (e.g., sales records, transactions, etc.).
