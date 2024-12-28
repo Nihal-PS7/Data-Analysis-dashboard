@@ -30,7 +30,7 @@
 1) **What are the top 5 best-selling pizzas based on total revenue?**
 2) **What are the bottom 5 least-selling pizzas based on total revenue?**
 
-### Dashboard Interaction <a href="https://github.com/Nihal-PS7/Data-Analysis-dashboard/blob/main/Pizza%20sales%201.png">View Dashboard</a>
+### Dashboard Interaction: <a href="https://github.com/Nihal-PS7/Data-Analysis-dashboard/blob/main/Pizza%20sales%201.png">View Dashboard</a>
 
 
 
