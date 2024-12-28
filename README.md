@@ -6,10 +6,10 @@
 4. Provide actionable insights to help stakeholders make informed decisions.
 5. Identify opportunities for improving sales strategies and business growth.
 
-## Dataset used
+## Dataset used:
 <a href="https://github.com/Nihal-PS7/Data-Analysis-dashboard/blob/main/pizza_sales.csv">Dataset</a>
 
-## Questions
+## Questions:
 
 ### KPI's:
 1) **What is the total revenue generated from pizza sales?**
