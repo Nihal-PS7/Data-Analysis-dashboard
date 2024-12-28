@@ -7,4 +7,4 @@
 5. Identify opportunities for improving sales strategies and business growth.
 
 ## Dataset used
-- <a href="https://github.com/Nihal-PS7/Data-Analysis-dashboard/blob/main/pizza_sales.csv"<Dataset</a>
+<a href="https://github.com/Nihal-PS7/Data-Analysis-dashboard/blob/main/pizza_sales.csv">Dataset</a>
