@@ -11,6 +11,7 @@
 
 ## Questions
 
+### KPI's:
 1) **What is the total revenue generated from pizza sales?**
 2) **What is the average value of an order?**
 3) **How many pizzas have been sold in total?**
@@ -29,4 +30,3 @@
 1) **What are the top 5 best-selling pizzas based on total revenue?**
 2) **What are the bottom 5 least-selling pizzas based on total revenue?**
 
-These can now be used as individual questions or GitHub issues.
