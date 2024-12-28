@@ -1,4 +1,4 @@
-# Pizza Sales Analysis and Reporting with Excel, SQL, and Power BI
+# Pizza Sales Analysis with Excel, SQL and Power BI
 ## Objective of the Project:
 Clean and validate pizza sales data using Excel.
 Analyze sales data and run KPI queries using SQL.
